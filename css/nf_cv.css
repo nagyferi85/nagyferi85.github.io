@@ -35,6 +35,9 @@ header {
   border-radius: 5px;
   box-shadow: 5px 5px 10px black;
 }
+span#kukac{
+  display:none;
+}
 .infopanel {
   margin: 30px auto;
 }
